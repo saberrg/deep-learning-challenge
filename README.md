@@ -17,7 +17,7 @@ What variable(s) are the target(s) for your model?
 
 What variable(s) are the features for your model?
 
-* * Classifications, Application Type, Ask Amount, Income Amount
+* Classifications, Application Type, Ask Amount, Income Amount
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
 
@@ -29,4 +29,6 @@ How many neurons, layers, and activation functions did you select for your neura
 Were you able to achieve the target model performance? The model didn't achieve the optimum accuracy of 75+.
 What steps did you take in your attempts to increase model performance? Increasing layers, number of units and epochs. 
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+# Summary: Striving for Better Accuracy
+
+A different model, such as a Random Forest or Gradient Boosting classifier, could also be considered as an alternative to this projecy deep learning model. In conclusion, a repeated shift in layers and units can achieve a higher optimization, but perhap other models could be explored.
